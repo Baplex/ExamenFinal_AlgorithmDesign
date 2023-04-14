@@ -1,0 +1,17 @@
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\bin\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.exe
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\bin\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.deps.json
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\bin\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.runtimeconfig.json
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\bin\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.dll
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\bin\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.pdb
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\obj\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.csproj.AssemblyReference.cache
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\obj\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.Form1.resources
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\obj\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\obj\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\obj\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\obj\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.AssemblyInfo.cs
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\obj\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\obj\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.dll
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\obj\Debug\net7.0-windows\refint\DIseñoDeAlgoritmos_ExamenFinal.dll
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\obj\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.pdb
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\obj\Debug\net7.0-windows\DIseñoDeAlgoritmos_ExamenFinal.genruntimeconfig.cache
+C:\Users\Ryan\source\repos\DIseñoDeAlgoritmos_ExamenFinal\DIseñoDeAlgoritmos_ExamenFinal\obj\Debug\net7.0-windows\ref\DIseñoDeAlgoritmos_ExamenFinal.dll
